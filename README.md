@@ -1,0 +1,2 @@
+# python-shop
+django shop
